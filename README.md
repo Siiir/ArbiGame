@@ -1,1 +1,1 @@
-# My own bevy game template
+# My bevy game template
