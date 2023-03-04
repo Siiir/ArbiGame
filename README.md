@@ -1,1 +1,1 @@
-# My bevy game template
+# My bevy app template.
